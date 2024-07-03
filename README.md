@@ -33,7 +33,7 @@ To see the portfolio on your computer:
 
 1. Download and extract the zip file:
 
-    - [Download Portfolio.zip](link-to-your-zip-file)
+https://github.com/Vishwajasiri/Portfolio-/blob/main/portfolio-zip.zip
 
 2. Go to the extracted folder.
 
